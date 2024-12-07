@@ -18,7 +18,7 @@
 <a href="https://wa.me/8801533924031"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge" align="center"/></a>
 <a href="https://www.kaggle.com/Abdullah Al Alif"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge" align="center" /></a>
 <a href="https://leetcode.com/u/alif126426/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge" align="center" /></a>
-<a href="https://huggingface.co/YourUsername"><img src="https://img.shields.io/badge/Hugging%20Face-FFAE0D?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face Badge"/></a>
+<a href="https://huggingface.co/YourUsername"><img src="https://img.shields.io/badge/Hugging%20Face-FFAE0D?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face Badge" align="center"/></a>
 
 
 </p>
