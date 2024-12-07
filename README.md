@@ -11,14 +11,14 @@
 
 
 <p align="center">
-<a href="mailto:alif126426@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"  align="center"/></a>
-<a href="https://x.com/TurussoTempest"><img src="https://img.shields.io/badge/X.com-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X.com Badge" align="center" /></a>
-<a href="https://discordapp.com/users/805696667898347541"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" align="center" /></a>
-<a href="https://t.me/Abdullah_Al_Alif"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge" align="center" /></a>
-<a href="https://wa.me/8801533924031"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge" align="center"/></a>
-<a href="https://www.kaggle.com/Abdullah Al Alif"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge" align="center" /></a>
-<a href="https://leetcode.com/u/alif126426/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge" align="center" /></a>
-<a href="https://huggingface.co/YourUsername"><img src="https://img.shields.io/badge/Hugging%20Face-FFAE0D?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face Badge" align="center"/></a>
+<a href="mailto:alif126426@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"  align="center"/></a>
+<a href="https://x.com/TurussoTempest" target="_blank"><img src="https://img.shields.io/badge/X.com-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X.com Badge" align="center" /></a>
+<a href="https://discordapp.com/users/805696667898347541" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" align="center" /></a>
+<a href="https://t.me/Abdullah_Al_Alif" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge" align="center" /></a>
+<a href="https://wa.me/8801533924031" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge" align="center"/></a>
+<a href="https://www.kaggle.com/Abdullah Al Alif" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge" align="center" /></a>
+<a href="https://leetcode.com/u/alif126426/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge" align="center" /></a>
+<a href="https://huggingface.co/YourUsername" target="_blank"><img src="https://img.shields.io/badge/Hugging%20Face-FFAE0D?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face Badge" align="center"/></a>
 
 
 </p>
