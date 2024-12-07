@@ -34,7 +34,12 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40" style="padding-right:10px;" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="padding-right:10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" style="padding-right:10px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native" width="40" height="40" style="padding-right:10px;" />
+<img src="https://img.icons8.com/ios/50/000000/react-native.png" alt="React Native" width="40" height="40" style="padding-right:10px;" />
+
+
+
+
+
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40" style="padding-right:10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40" style="padding-right:10px; filter: invert(100%);" />
@@ -54,21 +59,23 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" alt="Unreal Engine 5" width="40" height="40" style="padding-right:10px; filter: invert(100%);" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" width="40" height="40" style="padding-right:10px;" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filetype-excel/filetype-excel-original.svg" alt="Excel" width="40" height="40" style="padding-right:10px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" alt="Power BI" width="40" height="40" style="padding-right:10px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/davinciresolve/davinciresolve-original.svg" alt="DaVinci Resolve" width="40" height="40" style="padding-right:10px;" />
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="SCSS" width="40" height="40" style="padding-right:10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40" style="padding-right:10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40" style="padding-right:10px;" />
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40" style="padding-right:10px;" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40" style="padding-right:10px;" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" alt="Unreal Engine 5" width="40" height="40" style="padding-right:10px; filter: invert(100%);" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" width="40" height="40" style="padding-right:10px;" /> 
+<img src="https://logodownload.org/wp-content/uploads/2020/04/excel-logo-0.png" alt="Excel" width="40" height="40" style="padding-right:10px;" />
+
+<img src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Symbol.png" alt="Power BI" width="40" height="40" style="padding-right:10px;" />
+<img src="https://toppng.com/public/uploads/preview/davinci-resolve-logo-11551057663wqlnlnkwym.png" alt="DaVinci Resolve" width="40" height="40" style="padding-right:10px;" />
+
+
 
 
 </p>
+
+
 
 <br />
