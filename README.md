@@ -67,9 +67,7 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" alt="Unreal Engine 5" width="40" height="40" style="padding-right:10px; filter: invert(100%);" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" width="40" height="40" style="padding-right:10px;" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filetype-excel/filetype-excel-original.svg" alt="Excel" width="40" height="40" style="padding-right:10px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" alt="Power BI" width="40" height="40" style="padding-right:10px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/davinciresolve/davinciresolve-original.svg" alt="DaVinci Resolve" width="40" height="40" style="padding-right:10px;" />
+
 
 </p>
 
