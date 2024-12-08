@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/AbdullahAlAlif"><img src="https://readme-typing-svg.herokuapp.com?lines=Hello+World;I'm+Alif;I+enjoy+coding,;Enthusiastic+about+ML;and+try+to+embrace+challenges;Always+eager+to+learn+and+adapt.&center=true&width=500&height=60&color=FFFFFF"></a>
+  <a href="https://github.com/AbdullahAlAlif"><img src="https://readme-typing-svg.herokuapp.com?lines=Hello+World;I'm+Alif;I+enjoy+coding,;Enthusiastic+about+ML;and+try+to+embrace+challenges;Always+eager+to+learn+and+adapt.&center=true&width=500&height=60&color=FFFFFF&background=000000"></a>
 </p>
 
 
