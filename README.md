@@ -19,6 +19,8 @@
 <a href="https://www.kaggle.com/abdullahalalif" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge" align="center" /></a>
 <a href="https://leetcode.com/u/alif126426/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge" align="center" /></a>
 <a href="https://huggingface.co/AbdullahAlAlif" target="_blank"><img src="https://img.shields.io/badge/Hugging%20Face-FFAE0D?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face Badge" align="center"/></a>
+<a href="https://www.linkedin.com/in/abdullah-al-alif-580988340/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/></a>
 
 
 </p>
